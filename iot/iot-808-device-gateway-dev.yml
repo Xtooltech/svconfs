@@ -1,7 +1,2 @@
-app_id: "iot-808-device-gateway-1"
-device
-    host: "0.0.0.0"
-    port: 8700
-redis
-    host: "192.168.138.128"
-    port: 6379
+host: "192.168.138.128"
+port: 6379
