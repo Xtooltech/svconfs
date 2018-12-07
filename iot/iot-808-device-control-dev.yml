@@ -1,0 +1,4 @@
+app_id: "iot-808-device-control"
+redis:
+    host: "192.168.138.128"
+    port: 6379
