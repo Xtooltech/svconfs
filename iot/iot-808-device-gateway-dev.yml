@@ -3,7 +3,7 @@ device:
     host: "0.0.0.0"
     port: 8700
 redis:
-    host: "192.168.138.128"
+    host: "127.0.0.1"
     port: 6379
 service:
     host: "127.0.0.1"
