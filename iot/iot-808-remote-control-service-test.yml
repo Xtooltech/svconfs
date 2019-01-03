@@ -1,0 +1,4 @@
+app_id: "iot-808-remote-control-service"
+redis:
+    host: "19.87.22.24"
+    port: 6379
